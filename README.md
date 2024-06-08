@@ -1,21 +1,21 @@
-# <center> Hello👏🏻
+# <center> Hello👏🏻 | 欢迎各位
 
-## I'm zrydnoob
-**From**: Hebei, China
+## I'm zrydnoob | 鄙人zrydnoob
+**From**: Hebei, China | **来自**： 中国 河北
 
-**Hobby**: Invention programming games
+**Hobby**: Invention programming games | **爱好**： 干饭 碎觉 扣代码 打游戏
 
-**Occupation**: Student
+**Occupation**: High school student | **身份**：高一学生
 
-**Love small animals**
+**Love small animals** Except for bug!!!!!!!!!! | **喜欢小动物** bug 除外 (双关
 
-**Primary programming language**:
+**Primary programming language** | **主要编程语言**:
 
 ![Static Badge](https://img.shields.io/badge/python-3.8-orange?style=flat-square&logo=python&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/Java-8-blue?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/C%23-11-green?style=flat-square&logo=csharp&logoColor=green)
 
-**Learning**:
+**Learning** | **正在学习**:
 
 ![Static Badge](https://img.shields.io/badge/C++-17-blue?style=flat-square&logo=cplusplus&logoColor=blue)
 
