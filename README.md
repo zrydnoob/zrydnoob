@@ -5,7 +5,7 @@
 
 **Hobby**: Invention programming games | **爱好**： 干饭 碎觉 扣代码 打游戏
 
-**Occupation**: High school student | **身份**：高一学生
+**Occupation**: High school student | **身份**：高二学生
 
 **Love small animals** Except for bug!!!!!!!!!! | **喜欢小动物** bug 除外 (双关
 
