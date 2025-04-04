@@ -1,30 +1,33 @@
-# <center> Hello👏🏻 | 欢迎各位
+<h1 align="center">小生 | zrydnoob</h1>
+<h4 align="center">吾以独行探 未知之境</h3>
 
-## I'm zrydnoob | 鄙人zrydnoob
-**From**: Hebei, China | **来自**： 中国 河北
+- 🌍 地区： **中国 河北 廊坊**
+- 👨‍🎓 身份： **高二 学生**
+- 📫 联系方式： **2642935611@qq.com**
+- ⚡ 自我定位： **bug 制造机！！！**
+- 🎉 爱好：**吃饭 睡觉 扣代码 打游戏**
 
-**Hobby**: Invention programming games | **爱好**： 干饭 碎觉 扣代码 打游戏
+---
 
-**Occupation**: High school student | **身份**：高二学生
+### 🚀技术栈
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
-**Love small animals** Except for bug!!!!!!!!!! | **喜欢小动物** bug 除外 (双关
+---
 
-**Primary programming language** | **主要编程语言**:
+### 👓Github stats
+[![zrydnoob's GitHub stats](https://github-readme-stats.vercel.app/api?username=zrydnoob&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Static Badge](https://img.shields.io/badge/python-3.8-orange?style=flat-square&logo=python&logoColor=orange)
-![Static Badge](https://img.shields.io/badge/Java-8-blue?style=flat-square)
-![Static Badge](https://img.shields.io/badge/C%23-11-green?style=flat-square&logo=csharp&logoColor=green)
+---
 
-**Learning** | **正在学习**:
+### 🔍WakaTime
 
-![Static Badge](https://img.shields.io/badge/C++-17-blue?style=flat-square&logo=cplusplus&logoColor=blue)
-
-
-[![zrydnoob's GitHub stats](https://github-readme-stats.vercel.app/api?username=zrydnoob&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zrydnoob&theme=dark&layout=compact)
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=zrydnoob&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
