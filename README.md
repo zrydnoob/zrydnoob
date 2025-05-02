@@ -32,19 +32,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 April 2025 - To: 29 April 2025
+From: 03 April 2025 - To: 30 April 2025
 
-Total Time: 16 hrs 41 mins
+Total Time: 17 hrs 25 mins
 
-Java                  12 hrs 14 mins  >>>>>>>>>>>>>>>>>>-------   73.30 %
-C#                    1 hr 29 mins    >>-----------------------   08.89 %
-Groovy                18 mins         -------------------------   01.82 %
-Java Properties       14 mins         -------------------------   01.44 %
-Mixin Configuration   13 mins         -------------------------   01.34 %
-textmate              9 mins          -------------------------   00.94 %
-Gradle                7 mins          -------------------------   00.79 %
-Text                  4 mins          -------------------------   00.44 %
-Other                 0 secs          -------------------------   00.09 %
+Java                               12 hrs 14 mins  >>>>>>>>>>>>>>>>>>-------   70.17 %
+C#                                 1 hr 56 mins    >>>----------------------   11.10 %
+Groovy                             18 mins         -------------------------   01.75 %
+Java Properties                    14 mins         -------------------------   01.38 %
+Mixin Configuration                13 mins         -------------------------   01.28 %
+textmate                           9 mins          -------------------------   00.90 %
+Gradle                             7 mins          -------------------------   00.76 %
+Text                               6 mins          -------------------------   00.66 %
+Other                              0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
