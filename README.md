@@ -32,13 +32,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 April 2025 - To: 30 August 2025
+From: 03 April 2025 - To: 31 August 2025
 
 Total Time: 38 hrs 45 mins
 
-Java                               12 hrs 14 mins  >>>>>>>>-----------------   31.59 %
-Python                             7 hrs 40 mins   >>>>>--------------------   19.79 %
-C#                                 6 hrs 34 mins   >>>>---------------------   16.94 %
+Java                               12 hrs 14 mins  >>>>>>>>-----------------   31.58 %
+Python                             7 hrs 40 mins   >>>>>--------------------   19.80 %
+C#                                 6 hrs 34 mins   >>>>---------------------   16.93 %
 Dart                               3 hrs 31 mins   >>-----------------------   09.08 %
 XAML                               1 hr 57 mins    >------------------------   05.05 %
 Markdown                           49 mins         >------------------------   02.12 %
