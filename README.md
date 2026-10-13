@@ -26,25 +26,3 @@
 [![zrydnoob's GitHub stats](https://github-readme-stats.vercel.app/api?username=zrydnoob&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### 🔍WakaTime
-
-<!--START_SECTION:waka-->
-
-```rust
-From: 03 April 2025 - To: 11 October 2026
-
-Total Time: 59 hrs 45 mins
-
-Java                               16 hrs 14 mins        >>>>>>>------------------   27.09 %
-Python                             11 hrs 51 mins        >>>>>--------------------   19.78 %
-C#                                 8 hrs 2 mins          >>>----------------------   13.40 %
-Vue.js                             7 hrs 13 mins         >>>----------------------   12.05 %
-Dart                               4 hrs 14 mins         >>-----------------------   07.07 %
-XAML                               1 hr 57 mins          >------------------------   03.27 %
-Markdown                           1 hr 38 mins          >------------------------   02.74 %
-Text                               57 mins               -------------------------   01.60 %
-Lua                                44 mins               -------------------------   01.24 %
-```
-
-<!--END_SECTION:waka-->
